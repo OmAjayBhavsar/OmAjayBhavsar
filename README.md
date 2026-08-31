@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Om 
 
-<!--
-**OmAjayBhavsar/OmAjayBhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Sc. Ingenieurinformatik-Student at Otto-von-Guericke University Magdeburg.
 
-Here are some ideas to get you started:
+I'm currently strengthening my skills in Java, algorithms & data structures,
+Git/GitHub and backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Skills
+
+- Java
+- SQL
+- Git & GitHub
+- HTML/CSS
+- JavaScript (Basics)
+
+📚 Currently Learning
+
+- Java
+- Algorithms & Data Structures
+- Spring Boot
+
+🚀 Projects
+
+Student Management System
+Console-based Java application for managing student data.
+
+Tower Defense Bot
+Java-based university team project implementing automated game strategies.
+
+Personal Finance Tracker
+Web application for managing personal income and expenses.
+
+🌍 Languages
+
+German — C1  
+English — Fluent  
+Hindi — Native  
+Marathi — Native
