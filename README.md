@@ -1,11 +1,11 @@
-Hi, I'm Om 
+# Hi, I'm Om 👋
 
-B.Sc. Ingenieurinformatik-Student at Otto-von-Guericke University Magdeburg.
+B.Sc. Ingenieurinformatik student at Otto-von-Guericke University Magdeburg.
 
 I'm currently strengthening my skills in Java, algorithms & data structures,
 Git/GitHub and backend development.
 
-💻 Technical Skills
+## 💻 Technical Skills
 
 - Java
 - SQL
@@ -13,24 +13,24 @@ Git/GitHub and backend development.
 - HTML/CSS
 - JavaScript (Basics)
 
-📚 Currently Learning
+## 📚 Currently Learning
 
 - Java
 - Algorithms & Data Structures
 - Spring Boot
 
-🚀 Projects
+## 🚀 Projects
 
-Student Management System
+### Student Management System
 Console-based Java application for managing student data.
 
-Tower Defense Bot
+### Tower Defense Bot
 Java-based university team project implementing automated game strategies.
 
-Personal Finance Tracker
+### Personal Finance Tracker
 Web application for managing personal income and expenses.
 
-🌍 Languages
+## 🌍 Languages
 
 German — C1  
 English — Fluent  
